@@ -1,0 +1,38 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+h2 {
+    margin-top: 60px;
+}
+
+p, ol {
+    font-size: 18px;
+}
+
+a { 
+    text-decoration: none;
+    color:#3367d6; 
+} 
+
+a:visited {
+    color:#1342a5; 
+}
+
+a:hover {
+    color:#3367d6;
+}
+
+.question {
+    color: #444;
+    padding: 12px;
+}
+
+.answer {
+    padding: 0 12px;
+}
